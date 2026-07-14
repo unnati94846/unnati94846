@@ -1,131 +1,139 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=Unnati%20Yadav&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Fresher&descAlignY=55&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F5AF0,35:8B5CF6,70:06B6D4,100:67E8F9&text=Unnati%20Yadav&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20B.Tech%20IT%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=56&animation=twinkling"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Web+Apps;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;IT+Undergrad+%40+Banasthali+Vidyapith;Open+to+Software+Development+Roles" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=8B5CF6&center=true&vCenter=true&width=820&lines=Turning+Ideas+Into+Software...;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Learning+Every+Day+%F0%9F%9A%80;Always+Building+Something+Interesting"/>
 
-<br/><br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
-
-![Profile Views](https://komarev.com/ghpvc/?username=unnati94846&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/unnati94846?style=for-the-badge&color=7dd3fc&labelColor=1a1a1a)
+<p>
+<img src="https://komarev.com/ghpvc/?username=unnati94846&style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/github/followers/unnati94846?style=for-the-badge&color=06B6D4"/>
+<img src="https://img.shields.io/badge/Fresher-Ready%20to%20Learn-8B5CF6?style=for-the-badge"/>
+</p>
 
 </div>
 
-<br/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-## 💻 Who I Am
+```yaml
+Name        : Unnati Yadav
+Education   : B.Tech Information Technology (2022-2026)
+Institute   : Banasthali Vidyapith
+Role        : Aspiring Software Engineer
+Location    : India
 
-```typescript
-const unnatiYadav = {
-  title: "Full Stack Developer | Fresher",
-  location: "India",
-  education: "B.Tech in Information Technology, Banasthali Vidyapith (2022-2026)",
-  
-  stack: {
-    languages: ["Java", "C++", "Python", "JavaScript"],
-    frontend: ["React.js", "Redux Toolkit", "Context API", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "Postman", "Firebase", "VS Code", "NetBeans IDE"],
-  },
+Currently Learning:
+  - Data Structures & Algorithms
+  - Backend Development
+  - System Design
+  - Cloud Fundamentals
 
-  launchedProjects: [
-    "SpicyBites - Campus Food Delivery System",
-    "ReactReporter - News Aggregator Web App",
-    "MandirMediManage - Hospital Management System",
-  ],
-
-  certifications: [
-    "CCNA - Cisco (2024-2026)",
-    "Year-Long Industry Connect & Learning Program (Golden Certificate)",
-    "NVIDIA AR/VR Workshop (HACK CELESTIA x NVIDIA)",
-    "Microsoft Learn Student Ambassador - Azure Cosmos DB Workshop",
-  ],
-
-  status: "Actively seeking Full Stack Developer / SDE roles",
-  openTo: ["Full-time opportunities", "Collaborative projects", "Open Source contributions"],
-};
+Interests:
+  - Full Stack Development
+  - Open Source
+  - Scalable Applications
 ```
 
-<br/>
+---
 
-## 🚀 Featured Projects
-
-### 🍔 SpicyBites — Campus Food Delivery System
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=unnati94846&repo=SpicyBites&theme=default&border_color=7dd3fc&title_color=7dd3fc" />
-
-Full-stack campus food delivery platform built during a C-DAC internship, integrating web and Android ordering flows for a team of four.
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js, Redux Toolkit |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-
-🔗 [Code](https://github.com/unnati94846/SpicyBites)
-
-<br/>
-
-### 📰 ReactReporter — News Aggregator Web Application
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=unnati94846&repo=ReactReporter&theme=default&border_color=7dd3fc&title_color=7dd3fc" />
-
-Responsive news aggregation platform with category-wise browsing, bookmarking, and protected routes.
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js, Redux Toolkit, Context API |
-| Auth | Firebase Authentication |
-| API | NewsAPI |
-
-🔗 [Code](https://github.com/unnati94846/ReactReporter)
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,redux" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
-
-<br/>
-
-## 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unnati94846&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0d1117" width="100%"/>
-
-<br/>
-
-## 🤝 Connect With Me
+# ⚡ Tech Universe
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnatiyadav816)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavunnati816@gmail.com)
+### Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,redux"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
+# 🚀 Journey Highlights
+
+| Achievement | Status |
+|-------------|--------|
+| 🏆 IEEE INDICON Research Author | ✅ |
+| 🚀 Top 5 - Bobble AI Hackathon | ✅ |
+| 🌍 Top 6 - NASA Space Apps | ✅ |
+| 💻 C-DAC Internship | ✅ |
+| 🏭 BHEL Vocational Training | ✅ |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=unnati94846&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=unnati94846&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnati94846&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=unnati94846&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+> Enable this later using a GitHub Action.
+
+```text
+.github/workflows/snake.yml
+```
+
+</p>
+
+---
+
+# 💡 Quote I Believe In
+
+> *"Consistency beats intensity. Small improvements every day create extraordinary results."*
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:yadavunnati816@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/unnatiyadav816">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7F5AF0,35:8B5CF6,70:06B6D4,100:67E8F9"/>
