@@ -26,7 +26,6 @@ Currently Learning:
   - Data Structures & Algorithms
   - Backend Development
   - System Design
-  - Cloud Fundamentals
 
 Interests:
   - Full Stack Development
@@ -64,8 +63,8 @@ Interests:
 | Achievement | Status |
 |-------------|--------|
 | 🏆 IEEE INDICON Research Author | ✅ |
-| 🚀 Top 5 - Bobble AI Hackathon | ✅ |
-| 🌍 Top 6 - NASA Space Apps | ✅ |
+| 🚀 Top 7 - Bobble AI Hackathon | ✅ |
+| 🌍 Top 4 - NASA Space Apps | ✅ |
 | 💻 C-DAC Internship | ✅ |
 | 🏭 BHEL Vocational Training | ✅ |
 
